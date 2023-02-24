@@ -1,0 +1,15 @@
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\obj\Debug\net6.0\FW.csproj.AssemblyReference.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\obj\Debug\net6.0\FW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\obj\Debug\net6.0\FW.AssemblyInfoInputs.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\obj\Debug\net6.0\FW.AssemblyInfo.cs
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\obj\Debug\net6.0\FW.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\bin\Debug\net6.0\FW.exe
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\bin\Debug\net6.0\FW.deps.json
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\bin\Debug\net6.0\FW.runtimeconfig.json
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\bin\Debug\net6.0\FW.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\bin\Debug\net6.0\FW.pdb
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\obj\Debug\net6.0\FW.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\obj\Debug\net6.0\refint\FW.dll
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\obj\Debug\net6.0\FW.pdb
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\obj\Debug\net6.0\FW.genruntimeconfig.cache
+C:\Users\Huawei\OneDrive\Рабочий стол\FinalWork\FW\obj\Debug\net6.0\ref\FW.dll
